@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://equoyeigip.video76.ru/sitemap.xml
